@@ -1,0 +1,5 @@
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\CubeSummationLogic\bin\Debug\CubeSummationLogic.dll
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\CubeSummationLogic\bin\Debug\CubeSummationLogic.pdb
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\CubeSummationLogic\obj\Debug\CubeSummationLogic.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\CubeSummationLogic\obj\Debug\CubeSummationLogic.dll
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\CubeSummationLogic\obj\Debug\CubeSummationLogic.pdb

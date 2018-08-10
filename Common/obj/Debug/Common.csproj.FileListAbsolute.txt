@@ -1,0 +1,6 @@
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\Common\bin\Debug\Common.dll
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\Common\bin\Debug\Common.pdb
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\Common\obj\Debug\Common.dll
+C:\Users\Jesus\Downloads\CubeSummationWeb-master\CubeSummationWeb-master\Common\obj\Debug\Common.pdb
